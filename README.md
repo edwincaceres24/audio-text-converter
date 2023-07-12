@@ -1,8 +1,8 @@
-#Tutorial
+# Tutorial
 
-#Installation
+## Installation
 
-*Install ffmpeg package:
+* Install ffmpeg package:
 
 ```sudo apt-get update
 sudo apt-get install ffmpeg```
