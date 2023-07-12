@@ -1,4 +1,4 @@
 .env
 /env
 /audios/*
-!/audios/.gitkeep
+!/audios/.gitignore
