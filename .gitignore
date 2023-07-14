@@ -1,4 +1,4 @@
 .env
 /env
-/audios/*
-!/audios/.gitignore
+.mp3
+.webm
