@@ -1,4 +1,6 @@
 .env
 /env
-.mp3
-.webm
+*.mp3
+*.webm
+*.wav
+/transcriptions/*.txt
